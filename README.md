@@ -10,4 +10,4 @@ http://www.parkrun.co.za/bellville/results/latestresults/
 > 3. Run 'extract_plot.py' to see a plot of a subset-data from the dataframe created.
 
 
-![alt text](https://github.com/Herman-HD/webtext-data/Screenshot-plot.png)
+![Screenshot of extracted-data plot.](https://github.com/Herman-HD/webtext-data/blob/master/Screenshot-plot.png)
